@@ -1,1 +1,2 @@
-# renoise-scaleFinder
+# Renoise ScaleFinder
+
