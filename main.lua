@@ -70,7 +70,7 @@ function stop_preview(root, chord)
       -- Insert note
 --      print(renoise.song().transport.edit_mode)
 
-      if(renoise.song().transport.edit_mode) then
+ --     if(renoise.song().transport.edit_mode) then
  --     insert_note(note, note_offset, current_instrument)
  --     print(cpattern)
  --     print(res)
@@ -83,7 +83,7 @@ function stop_preview(root, chord)
      { tag="i", value=(note-4) + renoise.song().transport.octave * 12}
      }
      ))
-     end
+--     end
       
       
       
